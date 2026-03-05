@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Rana Dief</h1>
 <h3 align="center">A passionate frontend developer/Game Developer</h3>
 
-- I’m currently working on **Eclipse Protocol**
+- I’m currently working on **Eclipse Protocol**, a 2d game using Love2d. Also,I am working on building a particle system using pygame. 
 
-- I’m currently learning **Lua, pygame, Unity and full react course on udemy**
+- I’m currently learning **Love2d, pygame and Unity**
+
+- I'm currrently working as a part-time intern as a frontend developer using React
 
 - I’m looking to collaborate on **Game Development/Frontend opportunities**
 
 - How to reach me **s-rana.dief@zewailcity.edu.eg**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
