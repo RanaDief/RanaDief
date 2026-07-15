@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rana Dief</h1>
 <h3 align="center">A passionate Game Developer</h3>
 
-- I’m currently working on **Eclipse Protocol**, a 2d game using Love2d. Also,I am working on building a particle system using pygame. 
+- I Developed **Eclipse Protocol** using Love2d to prototype the game, then I made a 3d version using unity
 
 - I’m currently learning **Love2d, pygame and Unity**
+
+- Made my Custom Game engine using OpenGL & C++, as well as a physics engine using pygame
 
 - I'm currrently working as a part-time intern as a Game Developer in two companies: Applied Game Design and Noxed
 
