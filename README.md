@@ -57,16 +57,6 @@
     />
   </a>
 
-  <!-- Pygame -->
-  <a href="https://www.pygame.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pygame/pygame-original.svg"
-      alt="Pygame"
-      width="40"
-      height="40"
-    />
-  </a>
-
   <!-- OpenGL -->
   <a href="https://www.opengl.org/" target="_blank" rel="noreferrer">
     <img
